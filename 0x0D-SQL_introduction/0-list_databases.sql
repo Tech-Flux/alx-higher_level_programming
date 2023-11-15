@@ -1,0 +1,2 @@
+/*Show databases*/
+SHOW DATABASE;
