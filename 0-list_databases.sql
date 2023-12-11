@@ -1,2 +1,0 @@
-/*Show databases*/
-SHOW DATABASE;
